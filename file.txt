@@ -1,3 +1,9 @@
-THIS IS THE FILE:
+<!DOCTYPE html>
+<html>
+	<body>
+	THIS IS THE FILE:
 
-FIRST VERSION HERE: NO CHANGES
+	FIRST VERSION HERE: NO CHANGES
+	Second version: made it html file
+	</body>
+</html>
